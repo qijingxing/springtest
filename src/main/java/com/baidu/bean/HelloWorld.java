@@ -1,4 +1,4 @@
-package com.thunisoft.bean;
+package com.baidu.bean;
 
 public class HelloWorld {
     private String message;

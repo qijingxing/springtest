@@ -4,11 +4,11 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="helloWorld"
-          class="com.thunisoft.bean.HelloWorld"
+          class="com.baidu.bean.HelloWorld"
           init-method="init" destroy-method="destroy">
         <property name="message" value="Hello World!"/>
     </bean>
 
-    <bean class="com.thunisoft.method.InitHelloWorld"></bean>
+    <bean class="com.baidu.method.InitHelloWorld"></bean>
 
 </beans>

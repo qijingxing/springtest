@@ -1,10 +1,10 @@
-package com.thunisoft.test;
+package com.baidu.test;
 
-import com.thunisoft.bean.HelloIndia;
-import com.thunisoft.bean.HelloWorld;
-import com.thunisoft.bean.HelloWorldConfig;
-import com.thunisoft.bean.Student;
-import com.thunisoft.tutorialspoint.TextEditor;
+import com.baidu.bean.HelloIndia;
+import com.baidu.bean.HelloWorld;
+import com.baidu.bean.HelloWorldConfig;
+import com.baidu.bean.Student;
+import com.baidu.tutorialspoint.TextEditor;
 import org.junit.Test;
 import org.springframework.beans.factory.xml.XmlBeanFactory;
 import org.springframework.context.ApplicationContext;

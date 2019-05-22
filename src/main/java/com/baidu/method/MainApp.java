@@ -1,6 +1,6 @@
-package com.thunisoft.method;
+package com.baidu.method;
 
-import com.thunisoft.bean.Student;
+import com.baidu.bean.Student;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

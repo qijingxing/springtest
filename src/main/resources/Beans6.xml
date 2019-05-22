@@ -7,9 +7,9 @@
     <context:annotation-config/>
 
     <aop:aspectj-autoproxy/>
-    <bean id="student" class="com.thunisoft.bean.Student">
+    <bean id="student" class="com.baidu.bean.Student">
         <property name="name"  value="Zara" />
         <property name="age"  value="11"/>
     </bean>
-    <bean id="logging" class="com.thunisoft.bean.Logging"/>
+    <bean id="logging" class="com.baidu.bean.Logging"/>
 </beans>

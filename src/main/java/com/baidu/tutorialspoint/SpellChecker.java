@@ -1,4 +1,4 @@
-package com.thunisoft.tutorialspoint;
+package com.baidu.tutorialspoint;
 
 public class SpellChecker {
     public SpellChecker(){

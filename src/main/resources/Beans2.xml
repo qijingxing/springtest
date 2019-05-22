@@ -9,7 +9,7 @@
         <property name="message3" value="Namaste India!"/>
     </bean>
 
-    <bean id="helloIndia" class="com.thunisoft.bean.HelloIndia" parent="beanTeamplate">
+    <bean id="helloIndia" class="com.baidu.bean.HelloIndia" parent="beanTeamplate">
         <property name="message1" value="Hello India!"/>
         <property name="message3" value="Namaste India!"/>
     </bean>

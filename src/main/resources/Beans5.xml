@@ -4,9 +4,9 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="textEditor" class="com.thunisoft.tutorialspoint.TextEditor">
+    <bean id="textEditor" class="com.baidu.tutorialspoint.TextEditor">
         <property name="spellChecker">
-            <bean id="spellChecker" class="com.thunisoft.tutorialspoint.SpellChecker"/>
+            <bean id="spellChecker" class="com.baidu.tutorialspoint.SpellChecker"/>
         </property>
     </bean>
 </beans>

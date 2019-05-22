@@ -1,4 +1,4 @@
-package com.thunisoft.bean;
+package com.baidu.bean;
 
 public class Student {
     private Integer age;
