@@ -1,4 +1,4 @@
-package com.baidu.tutorialspoint;
+package com.thunisoft.tutorialspoint;
 
 public class TextEditor {
 

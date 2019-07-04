@@ -1,4 +1,4 @@
-package com.baidu.bean;
+package com.thunisoft.bean;
 
 import org.aspectj.lang.annotation.*;
 
@@ -6,7 +6,7 @@ import org.aspectj.lang.annotation.*;
 public class Logging {
 
 
-    @Pointcut("execution(* com.baidu.bean.*.*(..))")
+    @Pointcut("execution(* com.thunisoft.bean.*.*(..))")
     private void selectAll(){}
 
     @Before("selectAll()")

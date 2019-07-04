@@ -1,4 +1,4 @@
-package com.baidu.bean;
+package com.thunisoft.bean;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package com.baidu.method;
+package com.thunisoft.method;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
